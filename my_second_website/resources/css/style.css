@@ -1,0 +1,51 @@
+.navbar{
+  background-color: gray;
+  padding: 15px;
+
+}
+.navbar a{
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+}
+
+.navbar a:hover{
+  background-color: purple;
+  padding: 15px;
+}
+.food1{
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.spon{
+  position: absolute;
+  top: 480px;
+  left: 865px;
+
+}
+.food1p{
+  color: white;
+  clear: left;
+  display: block;
+}
+
+p{
+  color: white;
+}
+
+
+
+h1{
+  font-size: 60px;
+  color: white;
+}
+
+footer{
+  color: white;
+
+}
+footer a{
+  text-decoration: none;
+  color: limegreen;
+}
