@@ -1,0 +1,88 @@
+.navbar{
+  background-color: gray;
+  padding: 15px;
+  border: dashed purple;
+
+}
+.navbar a{
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  border: solid blue;
+}
+
+.navbar a:hover{
+  background-color: purple;
+  padding: 15px;
+  border: dashed red;
+}
+
+
+p{
+  color: white;
+}
+
+
+
+h1{
+  font-size: 60px;
+  color: white;
+  font-weight: 900;
+}
+
+footer{
+  color: white;
+  background-color: grey;
+  border: solid purple 2px;
+
+}
+footer a{
+  text-decoration: none;
+  color: limegreen;
+}
+
+
+h3{
+  color: white;
+}
+i{
+  color: white;
+  font-size: 120px;
+}
+
+img{
+  height: 500px;
+  width: 500px;
+  position: relative;
+  transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
+  -moz-transition: 0.5s ease;
+  opacity: 0.5;
+  -webkit-opacity: 0.5;
+
+}
+ img:hover{
+   height: 600px;
+   width: 600px;
+  opacity: 1;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+}
+.smile img{
+  width: 30px;
+  height: 30px;
+  -webkit-opacity: 1;
+  position: absolute;
+  top: 372px;
+  left: 1417px;
+}
+.spon img{
+  height: 300px;
+  width: 336px;
+  position: absolute;
+  top: 430px;
+  left: 825px;
+  -webkit-opacity: 1;
+  -webkit-transition: none;
+  transform: rotate(320deg);
+}
