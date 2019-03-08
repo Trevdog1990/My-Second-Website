@@ -2,3 +2,11 @@ body{
     background-color:rgb(76, 235, 211);
 
 }
+
+
+.names-container{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
